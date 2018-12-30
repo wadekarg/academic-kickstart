@@ -31,5 +31,4 @@ weight = 5
 
 # Biography
 
-Gajanan Wadekar is a graduate student at the UT Arlington and works in HDI Lab. His research interests include deep learning, 
-machine learning and data mining.
+Gajanan Wadekar is a graduate student at the UT Arlington with experience of two and half year in the field of software development. He has fascination towards Machine Learning and Deep Learning. He works as Research Assistant under Dr. Deokgun Park in HDI Lab. He is currently working on Reinforcement Learning.

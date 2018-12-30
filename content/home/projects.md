@@ -50,3 +50,21 @@ filter_default = 0
 
 +++
 
+1.	Classification of points into two classes using single neuron - The training is done based on perceptron learning rule
+
+2.	A Search Engine - The program returns the most similar document with the searched query
+
+3.	Handwritten digits prediction from MNIST dataset - Achieved accurcy of 90% in predicting the digits using single layer neural network
+
+4.	NBA Player position prediction - Achieved the accuracy of 73% to classify the NBA player(NBA Dataset) into 5 positions using K-Nearest Neighbor,
+Naïve Bayes, Support Vector Machine, and Decision Tree
+
+5.	Stock Price change prediction using Adaline and LMS algorithm - Implemented Widrow-Huff Learning rule to predict the price change in stock based on past data(real stock market data)
+
+6.	Recommender System - Developed a recommendation engine for a movie dataset. The recommendation is provided using 3 methods, user based, item based, and content based
+
+7.	Data classifier for multiple classes - Designed a multi-layer neural network to categorize the input data into multiple classes/clusters. Generated data
+for multiple classes and trained the network it to classify them
+
+8.	Image recognition using CNN - Achieved the accuracy of 78% to recognize images using a convolutional neural. The neural network is trained with the CIFAR-10 dataset which has 60000 images of 10 types of categories   
+

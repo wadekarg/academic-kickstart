@@ -20,7 +20,7 @@ date_format = "January 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
   title = "Senior System Engineer"
-  company = "Infosys"
+  company = "Infosys BPM Ltd."
   company_url = ""
   location = "Pune, India"
   date_start = "2016-03-16"
@@ -28,9 +28,9 @@ date_format = "January 2006"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Analysing Client Requirement
+  * Implemetation of new ideas to shape the model
+  * Deployment of code into production environment
   """
 
 #[[experience]]
